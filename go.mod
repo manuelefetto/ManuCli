@@ -1,4 +1,4 @@
-module ManuCli
+module github.com/manuelefetto/ManuCli
 
 go 1.21.6
 
